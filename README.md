@@ -7,12 +7,12 @@
 
 ## Emacs Lisp
 
-	![Emacs Lisp](./prev-elisp.png)
+	![Emacs Lisp](prev-elisp.png)
 
 ## Rust
 
-	![Rust](./prev-rust.png)
+	![Rust](prev-rust.png)
 
 ## Python
 
-	![Python](./prev-python.png)
+	![Python](prev-python.png)
