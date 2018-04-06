@@ -7,7 +7,7 @@
 
 (custom-theme-set-faces
  'northcode
- '(default ((t (:inherit nil :stipple nil :background "#1c1c1c" :foreground "#f6f3e8" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 110 :family "Inconsolata"))))
+ '(default ((t (:inherit nil :stipple nil :background "#1c1c1c" :foreground "#f6f3e8"))))
  '(font-lock-constant-face ((t (:foreground "#5971B2"))))
  '(font-lock-keyword-face ((t (:foreground "#6E8EE5"))))
  '(font-lock-variable-name-face ((t (:foreground "#CBD4EA"))))
