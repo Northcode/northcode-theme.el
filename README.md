@@ -5,6 +5,10 @@
 	
 # Preview images
 
+## Small
+
+![Abbrevs texinfo](prev-small.png)
+
 ## Emacs Lisp
 
 ![Emacs Lisp](prev-elisp.png)
