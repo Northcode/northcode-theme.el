@@ -1,4 +1,4 @@
-;;; northcode-theme.el --- A dark theme for emacs focused on blue and orange colors.
+;;; northcode-theme.el --- A dark theme focused on blue and orange colors.
 
 ;;; Commentary:
 ;; My first Emacs theme.
@@ -11,7 +11,7 @@
 ;; Version: 0.1
 ;; URL: https://github.com/Northcode/northcode-theme.el
 ;; Author: Andreas Larsen <andreas@northcode.no>
-;; Package-Requires: ((emacs "23"))
+;; Package-Requires: ((emacs "24"))
 ;; License: GPL-3.0
 
 ;;; Code:
@@ -55,4 +55,4 @@
  )
 
 (provide-theme 'northcode)
-;;; northcode-theme ends here
+;;; northcode-theme.el ends here
